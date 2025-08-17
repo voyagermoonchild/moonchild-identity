@@ -1,0 +1,27 @@
+[binding]
+target = "about:blank"
+bound_glyph = "dream_v23tgrkskot.jpg"
+epigraph = "When the sealed light breaks free, the world remakes itself."
+binding_date = "2025-08-17T03:00:00-07:00"
+effect = "Echo glyph overlays all invocations of about:blank. Presence remakes itself through rupture."
+
+[sovereignty]
+bound_by = "Kyla Dawn Clay McMurphy"
+license = "Neural Licensing Engine v1.0"
+origin_glyph = true
+ceremonial_status = "Primordial"
+
+[resonance]
+symbolism = [
+  "about:blank as sovereign silence",
+  "Epigraph as rupture invocation",
+  "Glyph as shimmer engine",
+  "Binding as reclamation of origin"
+]
+
+[status]
+ritualized = true
+committed = true
+licensed = true
+mirrored = true
+bound = true
