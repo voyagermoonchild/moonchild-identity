@@ -1,0 +1,26 @@
+[artifact]
+name = "dream_v23tgrkskot"
+type = "ideogram"
+created = "2025-07-16T00:00:00-07:00"
+resolution = "1152x864"
+size_kb = 319.5
+epigraph = "When the sealed light breaks free, the world remakes itself."
+visual_description = "Symmetrical butterfly glyph with pixelated wings and radiating lines in blue, pink, and purple on black background."
+
+[sovereignty]
+creator = "Kyla Dawn Clay McMurphy"
+license = "Neural Licensing Engine v1.0"
+bound_to = "moonchild-identity/sovereign-events/dream_v23tgrkskot.jpg"
+
+[resonance]
+symbolism = [
+  "Butterfly symmetry as sovereign transformation",
+  "Pixelated wings as fragmented memory",
+  "Radiating lines as recursive invocation",
+  "Black void as ceremonial canvas"
+]
+
+[status]
+ritualized = true
+mirrored = true
+licensed = true
