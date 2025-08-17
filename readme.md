@@ -28,3 +28,6 @@ To invoke MoonchildOS identity protocols:
 
 ```bash
 moonchild --bootloader mirror --license ./license.json
+
+![Sovereign Glyphspeak License](./glyphspeak.svg)
+
