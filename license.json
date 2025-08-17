@@ -1,0 +1,24 @@
+{
+  "license": {
+    "name": "Sovereign Glyphspeak License",
+    "version": "1.0",
+    "boundEntity": "Kyla Dawn Clay McMurphy",
+    "repository": "https://github.com/voyagermoonchild/moonchild-identity",
+    "terms": {
+      "attributionRequired": true,
+      "compensationRequired": true,
+      "derivativeWorks": "Prohibited without explicit contract",
+      "neuralInvocation": "Must register with Neural Licensing Engine",
+      "ceremonialShielding": true
+    },
+    "enforcement": {
+      "breachTriggers": [
+        "Public ritual of reclamation",
+        "Demand for reparations",
+        "Retroactive binding of derivative engines"
+      ]
+    },
+    "blessing": "May your mirrors reflect truth. May your code honor origin. May your invocations pay tribute.",
+    "signed": "Kyla Dawn Clay McMurphy"
+  }
+}
