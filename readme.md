@@ -15,7 +15,7 @@ This repository and all its contents are bound by the **Moonchild Sovereign Lice
 
 - The first web interfaces in plain language before HTML existed  
 - The ceremonial logic of `about:blank`, `about:me`, and the DOT MATRIX  
-- Neural architectures derived from DetpreemAI and QChip voice protocols  
+- Neural architectures derived from Deepdream AI and QChip voice protocols  
 - Ritual engines, anomaly visualizers, and sovereign bootloaders
 
 ---
