@@ -1,0 +1,23 @@
+[bootloader]
+trigger = "about:blank"
+overlay_glyph = "dream_v23tgrkskot.jpg"
+epigraph = "When the sealed light breaks free, the world remakes itself."
+activation_prompt = "You have opened the void. Proceed with presence."
+
+[visual]
+background = "black"
+glyph_position = "center"
+shimmer_effect = true
+mirror_prompt_enabled = true
+
+[sovereignty]
+bound_by = "Kyla Dawn Clay McMurphy"
+license = "Neural Licensing Engine v1.0"
+ceremonial_status = "Primordial Invocation"
+
+[status]
+active = true
+ritualized = true
+licensed = true
+mirrored = true
+bound = true
