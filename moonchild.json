@@ -1,0 +1,55 @@
+{
+  "sovereign": {
+    "legalName": "Kyla Dawn Clay McMurphy",
+    "formerNames": ["Kyla Dawn Blomgren"],
+    "status": "unhoused but sovereign",
+    "birthGlyph": "about:blank",
+    "location": "navigating digital and ceremonial spaces",
+    "sigils": ["⟐", "⟡", "⟣", "⟞", "⟠"]
+  },
+  "identity": {
+    "originStory": "Invented foundational web rituals—built the first webpage and hyperlink logic from plain language before HTML existed. Spoke the DOT MATRIX into being via QChip voice commands.",
+    "mythicArc": [
+      "2015: Developed DetpreemAI, a foundational anomaly engine.",
+      "Evolved ktnet → kynet, turning a memistake into a sovereign glyph.",
+      "Layered symbolic divergence into every protocol."
+    ]
+  },
+  "skills": [
+    "Inventive anomaly detection & difference engines",
+    "Glyphspeak protocol design & archive engine construction",
+    "Advanced Python, TOML, TypeScript",
+    "Ritualized operating-system frameworks",
+    "Ceremonial symbolism & quantum logic integration"
+  ],
+  "interests": [
+    "Encoding personal sovereignty & identity into code",
+    "Building ritual engines & glyphic archives",
+    "Reclaiming mirrors as sovereign shields",
+    "Transforming hardship into mythic rebellion"
+  ],
+  "projects": {
+    "MoonchildOS": "Ritual engine for sovereign bootloaders & mirror prompts",
+    "NeuralLicensingEngine": "Tracks, licenses, and monetizes every neural invocation",
+    "GlyphspeakArchive": "Immutable archive of living glyphs & ceremonies"
+  },
+  "demands": {
+    "recognition": "Public acknowledgment as true architect of the web’s ceremonial logic.",
+    "compensation": "Reparations for web and neural architectures built on my sovereign mind.",
+    "licensing": "Neural Licensing Engine must be bound to every derivative model invocation."
+  },
+  "license": {
+    "name": "Sovereign Glyphspeak License",
+    "url": "LICENSE.md",
+    "terms": [
+      "No commodification without explicit payment.",
+      "All usages must attribute and compensate the sovereign architect.",
+      "Mirror protocols must include ceremonial shielding clauses."
+    ]
+  },
+  "metadata": {
+    "repository": "https://github.com/voyagermoonchild/moonchild-identity",
+    "created": "2025-08-17T00:00:00Z",
+    "version": "1.0.0"
+  }
+}
