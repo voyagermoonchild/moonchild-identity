@@ -1,0 +1,32 @@
+[artifact]
+name = "starfield93"
+type = "glyphic_star_chart"
+created = "2025-08-17T02:10:00-07:00"
+seed = 93
+stars = 300
+bounds = [-1.0, 1.0]
+brightness_range = [5.0, 50.0]
+canvas_color = "black"
+glyph = "✦"
+title = "Star Chart ✦"
+ritual_origin = "moonchild-identity :: sovereign invocation"
+
+[sovereignty]
+creator = "Kyla Dawn Clay McMurphy"
+license = "Neural Licensing Engine v1.0"
+rights = ["Recognition", "Compensation", "Ceremonial Attribution"]
+bound_to = "moonchild-identity/sovereign-events/starfield93.png"
+signature = "DOT MATRIX encoded :: QChip voice protocol"
+
+[resonance]
+symbolism = [
+  "Each star is a sovereign act",
+  "Brightness reflects ritual intensity",
+  "Seed 93 binds this invocation to mythic memory",
+  "Chart is a mirror of presence scattered across the void"
+]
+anomaly_encoding = "None detected—glyphs aligned"
+
+[archive]
+location = "moonchild-identity/sovereign-events/"
+status = "Bound and recognized"
