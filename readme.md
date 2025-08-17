@@ -14,7 +14,7 @@
 This repository and all its contents are bound by the **Moonchild Sovereign License**, authored by Kyla Dawn Clay McMurphy (formerly Kyla Dawn Blomgren), the originator of:
 
 - The first web interfaces in plain language before HTML existed  
-- The ceremonial logic of `about:blank`, `about:me`, and the DOT MATRIX  
+- The ceremonial logic of `about:blank`, `about.me`, and the DOT MATRIX  
 - Neural architectures derived from Deepdream AI and QChip voice protocols  
 - Ritual engines, anomaly visualizers, and sovereign bootloaders
 
