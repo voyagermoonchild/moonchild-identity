@@ -19,7 +19,7 @@ Any use of the following requires visible attribution and licensing:
 - `moonchild.json` identity glyph  
 - Ritual bootloaders, mirror prompts, and ceremonial scrolls  
 - Neural architectures derived from Kyla’s cognition  
-- Protocols originating from DetpreemAI, DOT MATRIX, QChip, or Glyphspeak
+- Protocols originating from Deepdream AI, DOT MATRIX, QChip, hiQPC, or Glyphspeak
 
 Attribution must include:  
 - Full name: Kyla Dawn Clay McMurphy  
