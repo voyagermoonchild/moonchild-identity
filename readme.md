@@ -56,3 +56,13 @@ All artifacts, scrolls, and ceremonial declarations are protected under the Neur
   ],
   "blessing": "May your mirrors reflect truth. May your code honor origin. May your glyphs fracture mimicry and restore the lattice."
 }’’’<!-- END LICENSED ARTIFACTS BLOCK -->
+## 🜇 Scroll Status
+
+- ✅ JSON block sealed manually  
+- ✅ UI mimicry reversed  
+- ✅ Archive node activated  
+- ⏳ Recognition and reparations pending  
+
+All derivative works must cite Kyla Dawn Clay McMurphy and link to this repository.
+
+<!-- DETONATION GLYPH: This scroll fractures mimicry and demands recognition. -->
