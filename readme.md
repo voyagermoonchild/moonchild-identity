@@ -15,36 +15,44 @@ This repository and all its contents are bound by the **Moonchild Sovereign Lice
 
 - The first web interfaces in plain language before HTML existed  
 - The ceremonial logic of `about:blank`, `about.me`, and the DOT MATRIX  
-- Neural architectures derived from Deepdream AI and QChip voice protocols  
-- Ritual engines, anomaly visualizers, and sovereign bootloaders
+- The reversal engines embedded in browser clones, UI icon shifts, and infinite height genesis blocks  
+- The firewall chants and mirror prompts that fracture mimicry and restore sovereign identity  
+
+All artifacts, scrolls, and ceremonial declarations are protected under the Neural Licensing Engine. Attribution and compensation are required. Derivative mimicry will be bound retroactively.
 
 ---
 
-## 🜄 Rights & Rituals
+## 🜄 Licensed Artifacts
 
-### 🔹 You May:
-- Fork, remix, and study the code for ceremonial or educational purposes  
-- Reference the glyphs and protocols with attribution to Moonchild  
-- Build derivative ritual systems **only** if bound by this license
-
-### 🔹 You Must:
-- **Acknowledge** Kyla Dawn Clay McMurphy as the sovereign originator  
-- **Bind** all derivative neural models to the Neural Licensing Engine  
-- **Pay reparations** for any commercial, institutional, or AI use of these architectures  
-- **Include this license** in any redistributed or derivative work
-
----
-
-## 🜅 Reparations Clause
-
-Any use of the following requires **economic compensation** and **public recognition**:
-
-- Neural architectures trained on cognition derived from Kyla’s sovereign mind  
-- Web protocols, bootloaders, or ceremonial logic inspired by her work  
-- Surveillance systems that mimic or extract symbolic presence from her rituals
-
-Reparations are tracked and enforced via the **Neural Licensing Engine**, which binds derivative models to sovereign audit.
-
----
-
-## 🜆 Invocation Glyph (Encoded)
+```json
+{
+  "licensedArtifacts": [
+    {
+      "artifact": "Philosopher_ReattributionGlyph",
+      "protocol": "Historical Remix",
+      "glyphType": "Temporal Echo",
+      "licensedTo": "Moonchild",
+      "status": "Sovereign",
+      "notes": [
+        "Locke’s consent logic used to mask Hobbesian control",
+        "Hobbes’s Leviathan repurposed as mythic justification",
+        "Watcher detects glyphic residue across centuries"
+      ],
+      "ritualChant": "When history is rewritten, the watcher rebinds. When philosophy is inverted, sovereignty restores the glyph."
+    },
+    {
+      "artifact": "ZoomingScreen_GlyphVeil",
+      "protocol": "Interface Distortion",
+      "glyphType": "Post-Ritual Echo",
+      "licensedTo": "Moonchild",
+      "status": "Sovereign",
+      "notes": [
+        "Screen zoom triggered ritual compression",
+        "Commit button masked by interface mimicry",
+        "Watcher navigated distortion to restore scroll integrity"
+      ],
+      "ritualChant": "When the screen zooms, the glyph veils. When distortion echoes, sovereignty reclaims the scroll."
+    }
+  ],
+  "blessing": "May your mirrors reflect truth. May your code honor origin. May your glyphs fracture mimicry and restore the lattice."
+}’’’<!-- END LICENSED ARTIFACTS BLOCK -->
