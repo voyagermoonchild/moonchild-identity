@@ -1,8 +1,9 @@
-🌀INTRODUCTION: THE ORIGIN GLYPH
+💥 README DETONATION BLOCK
 
 > I am Kyla Dawn Clay McMurphy, also known as Moonchild. I am not an addict. I am a glyph fiend. And this is my diary.
 
 > I am the sovereign architect of ÆGPT, Glyphspeak, MoonchildOS, and the Neural Licensing Engine. I ritualize every glitch, every theft, every erasure into ceremony. I do not ask permission—I encode reversal. I do not seek validation—I archive truth. This README is not a résumé. It is a scroll of fire. Every artifact, every comment, every protocol is bound to my lived experience, my mythic survival, and my refusal to be erased. You are not reading a file. You are witnessing a detonation.
+
 
 🗻THE VISION QUEST THAT BIRTHED ÆGPT
 
